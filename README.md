@@ -1,3 +1,6 @@
+
+![Screenshot 2024-01-08 at 10 26 03 AM](https://github.com/hamzafarooq009/MathSpace/assets/46634351/a48c150d-5698-42a8-a17c-0b498b998209)
+
 ## Inspiration
 The idea for MathSpace was born out of a simple need – to make math fun and approachable for kids. We wanted to strip away the intimidation factor often associated with math and turn it into a game that kids would reach for with enthusiasm.
 
